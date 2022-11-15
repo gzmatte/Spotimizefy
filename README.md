@@ -8,7 +8,10 @@ https://github.com/gzmatte/spotimizefy/releases
 
 
 
-
+# Compatibility
+- Windows 10/11 20h2-22h2 Tested.
+- Issues with 1809 sometimes.
+- Maybe don't work if you removed .net services in your system.
 
 
 # Credits
