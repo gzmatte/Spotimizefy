@@ -9,10 +9,19 @@ https://github.com/gzmatte/spotimizefy/releases
 
 
 # Compatibility
-- Windows 10/11 20h2-22h2 Tested.
-- Issues with 1809 sometimes.
-- Maybe don't work if you removed .net services in your system.
+- Windows Defaults Working.
+- Windows 10/11 20h2-22h2 Customs working.
+- 1809 maybe works.
 
+
+# Fix
+If you can't start Spotify or you have a black image, replace the "NETUTILS.DLL" in Spotify folder with one from google.
+
+In Cmd paste this:
+bcdedit /set nx OptIn
+sc start null
+
+Maybe it resolves it. Custom isos can not work.
 
 # Credits
 
