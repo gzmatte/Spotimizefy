@@ -9,7 +9,7 @@ https://github.com/gzmatte/spotimizefy/releases
 
 
 # Compatibility
-* NOT WORKING ALWAYS, I dont updating this anymore.
+* NOT WORKING ALWAYS, Not updating this anymore.
 
 - Windows Defaults Working.
 - Windows 10/11 20h2-22h2 Customs working.
