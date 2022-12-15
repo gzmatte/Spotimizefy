@@ -9,12 +9,8 @@ https://github.com/gzmatte/spotimizefy/releases
 
 
 # Compatibility
-* NOT WORKING ALWAYS, Not updating this anymore.
-
-- Windows Defaults Working.
-- Windows 10/11 20h2-22h2 Customs working.
-- 1809 maybe works.
-
+- Windows 10/11
+- Not working always.
 - Problems maybe come with: nxOptIn/NullService/.NET not Installed/Disabled. Dll's errors, Powershell 1/2 maybe fails.
 
 # Credits
